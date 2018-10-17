@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class OrderingMsg {
 	public static void main(String[] args) {
+		//测试
 		// 1.数据主体
 		String[] names = new String[4];// 订餐人
 		String[] msg = new String[4];// 餐品信息
